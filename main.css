@@ -1,0 +1,222 @@
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 525px;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.aboutus p {
+    float: right;
+    width: 990px;
+    margin-right: 25px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+}
+.features p {
+    float: left;
+    width: 990px;
+    margin-left: 25px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+    -moz-float: right;
+    -webkit-float: right;
+}
+.features2 p{
+    float: right;
+    width: 990px;
+    margin-right: 25px;
+}
+.features3 p {
+    float: left;
+    width: 990px;
+    margin-left: 35px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 35px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 359px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 25px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 450px;
+}
+#message {
+    width: 500px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 500px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}

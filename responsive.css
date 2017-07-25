@@ -1,0 +1,1578 @@
+/*************************************************1302 Screen Sizes**************************/
+@media screen and (min-width: 1302px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 500px !important;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.aboutus p {
+    float: right;
+    width: 770px;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 250px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+}
+.features p {
+    float: left;
+    width: 780px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 25px;
+    float: left !important;
+    margin-top: 20px !important;
+    margin-left: 55px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 25px;
+    float: right !important;
+    margin-left: 250px;
+}
+.features2 p{
+    float: right;
+    width: 780px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+.features3 p {
+    float: left;
+    width: 780px;
+    margin-left: 45px;
+    margin-top: -155px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 25px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 389px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 350px;
+}
+#message {
+    width: 500px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 500px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+
+/*************************************************1202 Screen Sizes*******************************/
+@media screen and (min-width: 1202px) and (max-width:1301px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 525px;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.aboutus p {
+    float: right;
+    width: 990px;
+    margin-right: 25px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+}
+.features p {
+    float: left;
+    width: 990px;
+    margin-left: 25px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+    -moz-float: right;
+    -webkit-float: right;
+}
+.features2 p{
+    float: right;
+    width: 990px;
+    margin-right: 25px;
+}
+.features3 p {
+    float: left;
+    width: 990px;
+    margin-left: 35px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 35px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 359px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 25px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 450px;
+}
+#message {
+    width: 500px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 500px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+/*************************************************993 to 1201 Screen Sizes**************************/
+@media screen and (min-width: 993px) and (max-width: 1201px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 425px;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 25px;
+    float: left;
+}
+.aboutus p {
+    float: right;
+    width: 770px;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 250px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 25px;
+    float: right;
+}
+.features p {
+    float: left;
+    width: 780px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 25px;
+    float: left !important;
+    margin-top: 20px !important;
+    margin-left: 55px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 25px;
+    float: right !important;
+    margin-left: 250px;
+}
+.features2 p{
+    float: right;
+    width: 780px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+.features3 p {
+    float: left;
+    width: 780px;
+    margin-left: 45px;
+    margin-top: -155px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 25px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 389px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 350px;
+}
+#message {
+    width: 500px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 500px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+/*************************************************768 to 992 Screen Sizes***************************/
+@media screen and (min-width: 768px) and (max-width: 992px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 280px !important;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 305px;
+}
+.aboutus p {
+    width: 820px;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: white;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 305px;
+}
+.features p {
+    width: 780px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 300px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 305px;
+}
+.features2 p{
+    float: right;
+    width: 780px;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features3 p {
+    float: left;
+    width: 780px;
+    margin-left: 45px;
+    margin-top: 55px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 25px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 809px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 15px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 150px;
+}
+#message {
+    width: 500px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 500px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+/*************************************************551 to 767 Screen Sizes***************************/
+@media screen and (min-width: 551px) and (max-width: 767px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul img {
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: right;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 149px !important;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 185px;
+}
+.aboutus p {
+    width: auto;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: white;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 145px;
+}
+.features p {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 175px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 145px;
+}
+.features2 p{
+    width: auto;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features3 p {
+    width: auto;
+    margin-left: 45px;
+    margin-top: 55px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 29px;
+    margin-left: 125px;
+}
+.product1 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product2 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 320px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product3 img {
+    width: 270px;
+    margin-left: 25px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 809px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 15px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 99px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+}
+#message {
+    width: 450px;
+    height: 300px;
+}
+#first, #last, #subject, #email {
+    width: 450px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+/*******************************550, Mobile, Tablet Screens********/
+@media screen and (min-width: 351px) and (max-width: 550px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: none;
+    margin-left: 35px;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 55px !important;
+    background-color: skyblue;
+    color: white;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 80px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: 55px;
+}
+.aboutus p {
+    width: auto;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: white;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 55px;
+}
+.features p {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: 55px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 55px;
+}
+.features2 p{
+    width: auto;
+    margin-right: 0px;
+    margin-top: 5px;
+}
+.features3 p {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 19px;
+    margin-left: 0px;
+}
+.product1 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 260px;
+    margin-left: -15px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    width: auto !important;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product2 img {
+    width: 265px;
+    margin-left: -25px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product3 img {
+    width: 255px;
+    margin-left: -15px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 809px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 15px;
+    margin-left: 15px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 49px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+}
+#message {
+    width: 250px;
+    height: 100px;
+    overflow: auto;
+}
+#first, #last, #subject, #email {
+    width: 250px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
+/*******************************350, Mobile, Tablet Screens********/
+@media screen and (max-width: 350px){
+/*This is for the body section of the site*/
+body {
+    margin: 0px;
+}
+
+/*This is for the navigation menu*/
+ul {
+    float: right;
+    margin-right: 25px;
+    width: 100%;
+}
+ul h1 {
+    display: inline;
+    margin-left: 30px;
+    font-family: monospace;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    float: none;
+    margin-left: 35px;
+}
+ul li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.jumbotron {
+    width: 100%;
+    background-image: url(img/smartphone-1283016_1920.jpg);
+    height: 350px;
+    margin-top: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    margin-top: -150px;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+.download {
+    margin-left: 0px !important;
+    background-color: skyblue;
+    color: white;
+}
+/*This Section is for the body content section*/
+.aboutus {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.aboutus h2 {
+    text-align: center;
+    font-family: monospace;
+}
+.aboutus img {
+    width: 250px;
+    margin-left: -15px;
+}
+.aboutus p {
+    width: auto;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.features {
+    margin-top: 195px;
+    margin-left: 15px;
+    background-color: white;
+}
+.features h2 {
+    text-align: center !important;
+    font-family: monospace;
+}
+.features img {
+    width: 250px;
+    margin-right: 0px;
+}
+.features p {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.features2, features3 {
+    margin-top: 180px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.features2 img{
+    width: 250px;
+    margin-left: -16px;
+}
+.features3 img {
+    width: 250px;
+    margin-right: 0px;
+}
+.features2 p{
+    width: auto;
+    margin-right: 0px;
+    margin-top: 5px;
+}
+.features3 p {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/*This is the products section*/
+.productlinks {
+    margin-top: 19px;
+    margin-left: 0px;
+}
+.product1 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray
+}
+.product1 img {
+    width: 260px;
+    margin-left: -15px;
+}
+.product1 h3 {
+    text-align: center;
+}
+.product1 p {
+    text-align: justify;
+    width: auto !important;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product2 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product2 img {
+    width: 265px;
+    margin-left: -20px;
+}
+.product2 h3 {
+    text-align: center;
+}
+.product2 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product3 {
+    width: 230px;
+    height: auto;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.product3 img {
+    width: 255px;
+    margin-left: -10px;
+}
+.product3 h3 {
+    text-align: center;
+}
+.product3 p {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product {
+    margin-top: 809px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+.product1, .product2, .product3 {
+    display: inline-block;
+    padding: 15px;
+    margin-left: -10px;
+}
+button {
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    margin-left: 49px;
+}
+button:hover {
+    background-color: lightslategray;
+}
+/*This section is for the contact section*/
+table {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+}
+#message {
+    width: 150px;
+    height: 100px;
+    overflow: auto;
+}
+#first, #last, #subject, #email {
+    width: 150px;
+}
+.contact-form {
+    margin-top: 190px;
+    background-color: floralwhite
+}
+.contact-form h1 {
+    color: black;
+    font-family: monospace;
+}
+/*This is the footer section*/
+footer li {
+    list-style-type: none;
+    text-align: center;
+    background-color: azure
+}
+
+}
